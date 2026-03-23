@@ -59,6 +59,8 @@ Then in Xcode:
 
 Download the latest `.zip` from [Releases](https://github.com/anshaneja5/claudewatch/releases), unzip, and drag to `/Applications/`.
 
+> **Note:** On first launch, macOS may show a Gatekeeper warning since the app is not notarized. Click **Done**, then go to **System Settings → Privacy & Security**, scroll down, and click **"Open Anyway"**. This is a one-time step.
+
 ## Usage
 
 Once running, click the 🧠 brain icon in your menu bar. The app has 4 tabs:
